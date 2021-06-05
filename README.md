@@ -7,3 +7,6 @@ Automatic Chia Plotter Tool. This tool can add plot task according the SSD and H
 2. 支持无钱包P图，只需要安装官方Chia，并设置 农民 Farmer公钥 Public Key 和 矿池 Pool 公钥 Public Key，确保绝对的安全
 3. 可以随时停止自动P图，以便维护电脑或重启电脑
 4. 双击对应任务查看P图日志，了解P图任务的进度和时间
+
+欢迎大家使用奇亚chia自动P图管理系统1.6，也欢迎大家加入软件QQ群: 691736674
+如果有任何问题，或意见建议，请加群反馈。
